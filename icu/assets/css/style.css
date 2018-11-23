@@ -1,0 +1,60 @@
+.btn:active
+{
+  background-color:yellow;
+}
+
+.btn.active
+{
+  color: #000;
+  background-color:green;
+}
+
+.navbar.navbar-light.navbar-expand-md.navbar {
+  background-color:#ffffff;
+  height:96px;
+  box-shadow:0 2px 4px 0 rgba(0, 0, 0, 0.2), 0 3px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+#dropdown-btn {
+  border:0;
+}
+@media (min-width: 768px) {
+  #arrow-left {
+    border:0;
+    width:32px;
+  }
+}
+
+#arrow-left {
+  border:0;
+}
+
+#arrow-right {
+  border:0;
+}
+
+/*Styling for errors on form*/
+.form-group.form-error span {
+  width: 80%;
+  height: 35px;
+  margin: 3px 10%;
+  font-size: 1.1em;
+  color: #D83D5A;
+}
+
+.clean-block.clean-form form{
+  max-width: 700px;
+}
+
+.clean-block .block-heading{
+  padding-top: 40px;
+  margin-bottom: 20px;
+}
+
+.navbar{
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+}
+.clean-navbar.fixed-top+.page{
+  padding-top: 62px;
+}

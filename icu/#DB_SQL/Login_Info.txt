@@ -1,0 +1,3 @@
+admin :     email-> rarzahin@gmail.com        password-> abrar
+
+user:       email-> Idemocritas@gmail.com     password-> 1234
